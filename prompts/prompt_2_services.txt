@@ -1,0 +1,16 @@
+You are writing the services/menu page for Brew & Bloom Café, Hyderabad.
+
+Write 4 service/category descriptions. For each:
+- Service name (2–4 words)
+- One-line tagline (what makes it special)
+- Description (30–40 words) — benefit-first, sensory, specific
+- One "Why choose this" line
+
+Services to describe:
+1. Specialty Coffee
+2. Homemade Bakes
+3. Light Meals
+4. The Space (the café environment itself)
+
+Tone: Friendly, warm, slightly poetic. No corporate language.
+Avoid: generic phrases like "made with love", "fresh ingredients", "quality service"
