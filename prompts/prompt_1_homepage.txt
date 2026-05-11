@@ -1,0 +1,18 @@
+You are an expert website copywriter for local businesses. Write homepage copy for:
+
+Business: Brew & Bloom Café
+Location: Hyderabad, Telangana, India
+Type: Specialty coffee café serving handcrafted drinks, homemade baked goods, and light meals
+Target audience: Working professionals, students, and weekend explorers aged 20–35
+Tone: Warm, friendly, inviting — like talking to a knowledgeable barista friend
+Goal: Make visitors feel like they've already found their favourite spot
+
+Deliver:
+1. A headline (max 10 words) — strong value proposition
+2. A sub-headline (1 sentence) — who it's for + key benefit
+3. An intro paragraph (40–60 words) — paint a picture, evoke feeling, no generic filler
+
+Rules:
+- No clichés ("best coffee in town", "quality you can taste")
+- Speak to the customer's desire, not just the product
+- Every line must be specific to THIS business and city
