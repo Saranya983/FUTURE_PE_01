@@ -1,11 +1,18 @@
-Rewrite the following café homepage headline and intro for a different business type.
+You are a website copywriter. Rewrite the copy below for a different business type.
 
-Original (Café — Warm/Friendly tone):
+ORIGINAL (Café — Warm/Friendly tone):
 Headline: "Your Morning. Made Better."
-Intro: "Brew & Bloom is where Hyderabad slows down for a moment..."
+Intro: "Brew & Bloom is where Hyderabad slows down for a moment. Whether
+you're powering through a deadline or treating yourself to a Tuesday that
+feels like a Saturday — our handcrafted drinks and made-from-scratch bakes
+are ready when you are."
 
-Now rewrite for:
-Business type: [INSERT: Salon / Clinic / Coaching Centre / Agency]
-Tone shift: [INSERT: Professional / Confident / Authoritative / Empathetic]
-Keep: The benefit-first structure, the local city reference, the human feel
-Change: Vocabulary, metaphors, and energy to match the new business type
+NOW rewrite for:
+Business type: A coaching institute in Hyderabad
+Tone: Confident, motivating, academic but human
+Keep: Benefit-first structure, local city reference, emotional feeling
+Change: All vocabulary, metaphors and energy to match a coaching centre
+
+Deliver:
+- New headline (max 10 words)
+- New intro paragraph (40–60 words)
